@@ -2,33 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>391591699775-7unf180d7l7f3a0cfqtdqkm0alqpjlan.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.391591699775-7unf180d7l7f3a0cfqtdqkm0alqpjlan</string>
-	<key>API_KEY</key>
-	<string>AIzaSyC1QZAbKGYBGj8cS4-R5nmhsnkXs9h-hsk</string>
-	<key>GCM_SENDER_ID</key>
-	<string>391591699775</string>
-	<key>PLIST_VERSION</key>
-	<string>1</string>
-	<key>BUNDLE_ID</key>
-	<string>com.sdzephyrx.rockethelp</string>
-	<key>PROJECT_ID</key>
-	<string>rockethelp-8b973</string>
-	<key>STORAGE_BUCKET</key>
-	<string>rockethelp-8b973.appspot.com</string>
-	<key>IS_ADS_ENABLED</key>
-	<false></false>
-	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
-	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
-	<key>IS_GCM_ENABLED</key>
-	<true></true>
-	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
-	<key>GOOGLE_APP_ID</key>
-	<string>1:391591699775:ios:3b2c15a9506228b48c5f8a</string>
+	"SEGUIR PASSO A PASSO NA API DO FIREBASE PARA CONFIGURACAO DA CHAVE"
 </dict>
 </plist>
